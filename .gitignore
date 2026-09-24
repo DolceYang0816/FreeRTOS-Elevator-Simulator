@@ -1,0 +1,36 @@
+# Keil MDK build output
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+
+# Keil user-specific files
+*.uvguix.*
+*.uvoptx
+
+# Compiled files
+*.o
+*.obj
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+
+# Temporary files
+*.bak
+*.tmp
+*.log
+*.dep
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
